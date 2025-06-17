@@ -48,7 +48,7 @@ function Sidebar({ isOpen, setIsOpen }) {
       icon: '🏥',
       submenu: [
         { title: '화학물질 관리', path: '/health/chemical' },
-        { title: '건강지단 관리', path: '/health/health-group' },
+        { title: '건강진단 관리', path: '/health/health-group' },
         { title: '작업환경측정', path: '/health/work-environment' },
         { title: '직무스트레스 관리', path: '/health/job-stress' },
         { title: '근골격계 유해요인 조사', path: '/health/musculoskeletal-hazard' },
